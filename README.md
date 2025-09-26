@@ -21,3 +21,8 @@ Practice using GitHub by creating a sample repository.
 
 ## Tools Used
 
+## Files Used
+
+## How To Run Program
+
+## Additional Information
