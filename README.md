@@ -13,7 +13,7 @@ My first repository
 
 ## Prject Title
 
-*Hello world Sample - My **First** Repository* 
+*Hello World Sample* - **My First Repository** 
 
 ## Description
 
