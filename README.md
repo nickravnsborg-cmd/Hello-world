@@ -21,7 +21,7 @@ Practice using GitHub by creating a sample repository.
 
 ### Tools Used
 
-
+**Different programming _languages_ and _tools_ used.**
 
 ### Files Used
 
