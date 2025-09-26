@@ -11,18 +11,20 @@ My first repository
 - [ADDITIONAL INFORMATION](#Additional-Information)
 
 
-## Prject Title
+### Prject Title
 
 *Hello World Sample* - **My First Repository** 
 
-## Description
+### Description
 
 Practice using GitHub by creating a sample repository. 
 
-## Tools Used
+### Tools Used
 
-## Files Used
 
-## How To Run Program
 
-## Additional Information
+### Files Used
+
+### How To Run Program
+
+### Additional Information
