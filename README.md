@@ -17,7 +17,7 @@ My first repository
 
 ### Description
 
-Practice using GitHub by creating a sample repository. 
+Practice using <ins>GitHub</ins> by creating a sample repository. 
 
 ### Tools Used
 
