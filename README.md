@@ -13,4 +13,11 @@ My first repository
 
 ## Prject Title
 
-*Hello world Sample - My First Repository* 
+*Hello world Sample - My **First** Repository* 
+
+## Description
+
+Practice using GitHub by creating a sample repository. 
+
+## Tools Used
+
